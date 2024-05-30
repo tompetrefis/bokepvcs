@@ -2,4 +2,3 @@ User-agent: *
 Disallow:
 Allow: /
 Sitemap: https://bokepvcs.pages.dev/sitemap.xml
-Sitemap: https://bokepvcs.pages.dev/sitemap2.xml
